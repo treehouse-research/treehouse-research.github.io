@@ -8,7 +8,7 @@ optimize, and reduce the energy usage of datacenter software.
 
 ### Publications
 
-* Pratyush Patel, Zibo Gong, Syeda Rizvi, Esha Choukse, Pulkit Misra, Thomas Anderson, Akshitha Sriraman. ["Towards Improved Power Management in Cloud GPUs"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10130639). IEEE Computer Architecture Letters 2023. 
+* Pratyush Patel, Zibo Gong, Syeda Rizvi, Esha Choukse, Pulkit Misra, Thomas Anderson, and Akshitha Sriraman. ["Towards Improved Power Management in Cloud GPUs"](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10130639). IEEE Computer Architecture Letters 2023. 
 * Jiechen Zhao, Katie Lim, Thomas Anderson, and Natalie Enright Jerger. ["The Case of Unsustainable CPU Affinity"](https://hotcarbon.org/2023/pdf/a1-zhao.pdf). HotCarbon 2023.
 * Pratyush Patel, Theo Gregersen, and Thomas Anderson. ["An Agile Pathway Towards Carbon-aware Clouds"](https://foci.uw.edu/papers/hotcarbon23-agile.pdf). HotCarbon 2023.
 * Zhenning Yang, Luoxi Meng, Jae-Won Chung, and Mosharaf Chowdhury. ["Chasing Low-Carbon Electricity for Practical and Sustainable DNN Training"](https://arxiv.org/pdf/2303.02508.pdf). ClimateAI Workshop 2023 (collocated with ICLR 2023).
